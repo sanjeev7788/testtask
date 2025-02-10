@@ -1,0 +1,26 @@
+.container{
+    width: 1000px;
+    height: 70vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+    margin: auto;
+  }
+
+  
+  @media(max-width:830){
+
+    .container{
+        width: 100%;
+        height: auto;
+        display: grid;
+        justify-content: center;
+        align-items: center;
+       
+        margin: auto;
+      }
+    
+
+
+  }
