@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./Parent.css";
-import axios from "axios";
+
 import { useNavigate } from "react-router-dom";
-import Child from "./Child";
+
 
 const Parent = () => {
 
